@@ -27,4 +27,4 @@ Instructions:
 
 10. Double click on the rename.py script and it will fetch the names from the .har file and rename them accordingly. If 2 or more songs are named the same it will add a number to differentiate them.
 
-11. Enjoy your newly mass-downloaded songs!
+11. Enjoy your newly mass-downloaded songs, make sure not to share your HAR file as it contains sensitive account info so delete it after use!
