@@ -2,11 +2,12 @@
 Extract ALL mp3 links from your workspace to mass download with your own download manager, then rename to their original names you had them on your account.
 
 Note: You need python installed to use this, this guide assumes you have it installed and working. Google a bit on how to install. (This has been tested on Chrome so follow the guide with it)
+
 Note 2: You also need a download manager to bulk download these. I used Internet Download Manager (IDM for short), but it should work with any that supports bulk pasting of links or supports reading links from a text file.
 
 Instructions:
 
-1. Download the zip file containing all files from this repo, then extract them into any folder on your pc and name it anything you want.
+1. Download the zip file containing all files from this repo by clicking on the green button, selecting zip file, then extract them into any folder on your pc and name it anything you want.
   
 2. Go into your suno workspace and select the workspace you want the songs from, then press F12 to open the Chrome console.
    
