@@ -23,7 +23,7 @@ Instructions:
 
 8. Now go to the folder where all the files are extracted and double-click the extract har.py, it will extract the links and output a suno_links.txt file.
 
-9. Copy/paste them into your download manager of choice and begin downloading them, make sure they are downloaded to the same folder. After you're done, move all songs into the "suno songs" folder for renaming.
+9. Copy/paste them into your download manager of choice and begin downloading them, make sure they are downloaded to the same folder and don't worry if the names are a mess. After you're done, move all songs into the "suno songs" folder for renaming.
 
 10. Double click on the rename.py script and it will fetch the names from the .har file and rename them accordingly. If 2 or more songs are named the same it will add a number to differentiate them.
 
