@@ -9,7 +9,7 @@ Instructions:
 
 1. Download the zip file containing all files from this repo by clicking on the green [<> CODE] button, selecting Download zip file, then extract them into any folder on your pc and name it anything you want, then create a "songs folder" along the extracted files.
   
-2. Go into your suno workspace and select the workspace you want the songs from, then press F12 to open the Chrome console.
+2. Go into your suno/create workspace and select the workspace you want the songs from, then press F12 to open the Chrome console.
    
 3. Click on the network tab on the console, then type V3 into the filter bar on the top part of the console.
    
