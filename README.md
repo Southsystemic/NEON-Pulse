@@ -7,7 +7,7 @@ Note 2: You also need a download manager to bulk download these. I used Internet
 
 Instructions:
 
-1. Download the zip file containing all files from this repo by clicking on the green [<> CODE] button, selecting Download zip file, then extract them into any folder on your pc and name it anything you want.
+1. Download the zip file containing all files from this repo by clicking on the green [<> CODE] button, selecting Download zip file, then extract them into any folder on your pc and name it anything you want then create a suno songs folder inside it.
   
 2. Go into your suno workspace and select the workspace you want the songs from, then press F12 to open the Chrome console.
    
